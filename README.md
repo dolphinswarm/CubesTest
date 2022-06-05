@@ -1,6 +1,9 @@
 # CubesTest
 Halon Entertainment - Cubes Test Submission (Brad Schmitz)
 
+# How to Run
+This should be able to be run directly within Unreal Editor 4.27. When opening the project, make sure to select the "CubesTestMap" level.
+
 # Sources
 - UFO 3D Model: Made in Blender by me
 - Textures: Google Images (don't know exact authors, but was from various free websites)
